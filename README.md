@@ -1,5 +1,4 @@
-Hey! I am <a href="https://antoinelin.me">Antoine LIN</a></h1>
-
+<h1 align="center">Hey! I am <a href="https://antoinelin.me">Antoine LIN</a></h1>
 <h1 align="center">Welcome to my GitHub profile !</h1>
 
 <p align="center">
