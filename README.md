@@ -1,10 +1,6 @@
-# <div style="text-align: center"> Hey! I am <a href="https://antoinelin.me">Antoine LIN</a> </div>
+Hey! I am <a href="https://antoinelin.me">Antoine LIN</a></h1>
 
-<hr>
-
-# <div style="text-align: center"> Welcome to my GitHub profile ! </div>
-
-<hr>
+<h1 align="center">Welcome to my GitHub profile !</h1>
 
 <div style="text-align: center"> 
 
@@ -12,18 +8,16 @@
 
 </div>
 
-<div style="text-align: center">
-
-[Official Website](https://antoinelin.me)
+<p align="center">
+<a href="https://antoinelin.me">Official Website</a>
 |
-[X / Twitter](https://twitter.com/Tufengs)
+<a href="https://twitter.com/Tufengs">X / Twitter</a>
 |
-[Blog](https://tufengs.substack.com)
+<a href="https://tufengs.substack.com">Blog</a>
 |
-[Linkedin](https://www.linkedin.com/in/antoine-lin-539546160/)
+<a href="https://www.linkedin.com/in/antoine-lin-539546160/">Linkedin</a>
 |
-[Instagram](https://www.instagram.com/tufengs/)
+<a href="https://www.instagram.com/tufengs/">Instagram</a>
 |
-[StackOverFlow](https://stackoverflow.com/users/23121537/antoine-lin)
-
-</div>
+<a href="https://stackoverflow.com/users/23121537/antoine-lin">StackOverFlow</a>
+</p>
