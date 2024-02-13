@@ -2,11 +2,9 @@ Hey! I am <a href="https://antoinelin.me">Antoine LIN</a></h1>
 
 <h1 align="center">Welcome to my GitHub profile !</h1>
 
-<div style="text-align: center"> 
-
-[![Antoine Lin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tufengs&hide_border=true)](https://github.com/tufengs)
-
-</div>
+<p align="center">
+<a href="https://github.com/tufengs"><img src="https://github-readme-stats.vercel.app/api?username=tufengs&hide_border=true&show_icons=true" alt="Antoine Lin's GitHub stats"></a>
+</p>
 
 <p align="center">
 <a href="https://antoinelin.me">Official Website</a>
